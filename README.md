@@ -1,2 +1,2 @@
-# Pandas
- Introduction to Pandas, based on Codecademy's Data Analysis with Pandas
+# PandasForDataAnalysis
+ Pandas for Data Analysis. Info based on Codecademy, 2022.
